@@ -22,10 +22,10 @@
 
 <h3 align="left"> 🪄 Github Stats </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirsen&show_icons=true&locale=en&layout=compact" alt="nirsen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirsen&show_icons=true&locale=en&layout=compact" alt="nirsen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirsen&show_icons=true&locale=en" alt="nirsen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niresen&" alt="niresen" /></p>
+
 
 <img align="left" alt="bubble" width="100" src="https://i.pinimg.com/originals/3d/71/bb/3d71bbf217d44b5561ca01575528394c.gif">
