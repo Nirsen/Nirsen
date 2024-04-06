@@ -4,9 +4,7 @@
 
 
 
-<img align="right" alt="bubble" width="50" src="https://cdnb.artstation.com/p/assets/images/images/040/717/523/original/kayt-hine-vgc101-kayt-hine-assignment3.gif?1629706326">
-<img align="right" alt="bubble" width="100" src="https://cdnb.artstation.com/p/assets/images/images/040/717/523/original/kayt-hine-vgc101-kayt-hine-assignment3.gif?1629706326">
-<img align="right" alt="bubble" width="20" src="https://cdnb.artstation.com/p/assets/images/images/040/717/523/original/kayt-hine-vgc101-kayt-hine-assignment3.gif?1629706326">
+
 
 
 <br>
@@ -34,5 +32,7 @@
 <p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=nirsen&show_icons=true&locale=en" alt="nirsen" /></p>
 
 <br>
-
+<img align="right" alt="bubble" width="50" src="https://cdnb.artstation.com/p/assets/images/images/040/717/523/original/kayt-hine-vgc101-kayt-hine-assignment3.gif?1629706326">
+<img align="right" alt="bubble" width="100" src="https://cdnb.artstation.com/p/assets/images/images/040/717/523/original/kayt-hine-vgc101-kayt-hine-assignment3.gif?1629706326">
+<img align="right" alt="bubble" width="20" src="https://cdnb.artstation.com/p/assets/images/images/040/717/523/original/kayt-hine-vgc101-kayt-hine-assignment3.gif?1629706326">
 
