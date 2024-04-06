@@ -22,9 +22,8 @@
 
 <h3 align="left"> 🪄 Github Stats </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirsen&show_icons=true&locale=en&layout=compact" alt="nirsen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirsen&show_icons=true&locale=en" alt="nirsen" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nirsen&show_icons=true&locale=en" alt="nirsen" /></p>
 
 
 
