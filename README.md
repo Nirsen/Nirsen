@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome here  <br><img width="35" src="https://cdn3.emoji.gg/emojis/2213-kirbywave.gif"> </h1>
 
 
-<h3 align="center"> I'm Nes, a cyber security student with a passion for exploring all aspects of security ,I'm also interrested in artificial intelligence and web dev. <img width="35" src="https://cdn3.emoji.gg/emojis/3958-computer.gif"></h3>
+<h3 align="center"> I'm Nes, a cyber security student and a CTF player ,I'm also interrested in artificial intelligence and web dev. <img width="35" src="https://cdn3.emoji.gg/emojis/3958-computer.gif"></h3>
 
 
 
